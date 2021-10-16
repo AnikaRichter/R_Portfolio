@@ -36,7 +36,7 @@ This interactive map of Philadelphia displays the percentages of foreign-born re
 
 * Displaying data on an interactive map
 
-[![](thumbnails/philly_foreignborn.png)](https://anikarichter.github.io/R_Portfolio/fullsize/phil_foreignborn_citizenship.html){target="_blank"}
+[![](thumbnails/phil_foreignborn_citizenship.html)](https://anikarichter.github.io/R_Portfolio/fullsize/phil_foreignborn_citizenship.html){target="_blank"}
 
 # Maps of Boston, MA
 
