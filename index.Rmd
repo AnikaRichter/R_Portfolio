@@ -3,7 +3,7 @@ title: "Anika Richter Portfolio"
 author: "Anika Murasaki Richter"
 date: "10/14/2021"
 output: 
-  rmdformats::material
+  rmdformats::downcute
 ---
 
 ```{r setup, include=FALSE}
@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-This portfolio is a compilation of the skills I have developed in VIS 2128 - Spatial Analysis at Harvard's Graduate School of Design for my Master in Urban Planning Program. This series of maps includes the following skills, and was developed directly in RStudio:
+This portfolio is a compilation of the skills I have developed in VIS 2128 - Spatial Analysis at Harvard's Graduate School of Design for my Masters in Urban Planning Program. This series of maps includes the following skills, and was developed directly in RStudio:
 
 * Displaying multiple vector layers on the same map
 * Calculating and displaying relationships among point and polygon layers based on distance
@@ -36,7 +36,7 @@ This interactive map of Philadelphia displays the percentages of foreign-born re
 
 * Displaying data on an interactive map
 
-[![](thumbnails/phil_foreignborn_citizenship.html)](https://anikarichter.github.io/R_Portfolio/fullsize/phil_foreignborn_citizenship.html){target="_blank"}
+[![](thumbnails/philly_foreignborn.png)](https://anikarichter.github.io/R_Portfolio/fullsize/phil_interactive.html){target="_blank"}
 
 # Maps of Boston, MA
 
