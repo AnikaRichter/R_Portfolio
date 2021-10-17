@@ -1,5 +1,5 @@
 ---
-title: "Anika Richter Portfolio"
+title: "Spatial Analysis Portfolio"
 author: "Anika Murasaki Richter"
 date: "10/14/2021"
 output: 
